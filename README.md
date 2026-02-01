@@ -11,8 +11,6 @@ reference.
 
 Rather than starting from scratch, this time you'll be working with an existing codebase. The `<EpisodeList>` and `<EpisodeDetails>` components are already built for you in the `src/episodes` folder. They have been refactored to take props, but are otherwise identical to the previous workshop.
 
-Take some time to familiarize yourself with the code before starting to work on the new features, since you will have to interact with these components.
-
 > [!NOTE]
 >
 > As we work on larger projects, the number of files to keep track of will continue to increase!
@@ -43,6 +41,8 @@ Build out the `<App>`, `<ShowDetails>`, and `<ShowSelection>` components to rend
 10. `<App>` keeps the selected show in a state variable.
 11. `<App>` renders `<ShowSelection>` within the `<header>` and `<ShowDetails>` within the `<main>`.
 12. `<ShowSelection>` and `<ShowDetails>` are provided the correct props. You just wrote these components, so you should know what props they expect!
+
+// WE'RE HERE //
 
 ## Submission
 
